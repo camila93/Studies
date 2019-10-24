@@ -1,2 +1,0 @@
-# Studies
-Created with CodeSandbox
